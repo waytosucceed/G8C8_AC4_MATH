@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "A farmer is planting trees in rows. He plants apple trees every 5 metres and orange trees every 7 metres. If he plants both types of trees at the start of a row, at what distance will the next pair of apple and orange trees be planted together?",
+        "options": [
+            "45 metres",
+            "35 metres",
+            "30 metres",
+            "25 metres"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "In a dance competition, routines A and B have different cycle times. Routine A repeats every 10 minutes, and Routine B repeats every 14 minutes. If both routines start at 9:00 AM, when will they both be on stage at the same time again?",
+        "options": [
+            "10:10 AM",
+            "11:10 AM",
+            "10:11 AM",
+            "11:11 AM"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Two friends, Maria and John, start jogging around a track. Maria completes a lap every 9 minutes, and John completes a lap every 12 minutes. If they both start at the same point and time, after how many minutes will they meet at the starting point again?",
+        "options": [
+            "28 minutes",
+            "26 minutes",
+            "32 minutes",
+            "36 minutes"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Two buses leave a station at the same time. Bus A returns to the station every 15 minutes, and Bus B returns every 20 minutes. How long will it be until both buses are back at the station at the same time?",
+        "options": [
+            "55 minutes",
+            "50 minutes",
+            "60 minutes",
+            "45 minutes"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q5",
+        "question": "A digital billboard displays advertisements for two products. Ad A is shown every 25 seconds, and Ad B is shown every 30 seconds. If both ads are displayed at 1:00 PM, after how many seconds will they both be displayed together again?",
+        "options": [
+            "170 seconds",
+            "150 seconds",
+            "160 seconds",
+            "140 seconds"
+        ],
+        "correct": 1
+    }
+]
